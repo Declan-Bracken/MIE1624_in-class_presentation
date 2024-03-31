@@ -1,0 +1,290 @@
+MSTI_VAR,MSTI Variables,COU,Country,YEAR,Year,Unit Code,Unit,PowerCode Code,PowerCode,Reference Period Code,Reference Period,Value,Flag Codes,Flags
+G_FBXGDP,Business-financed GERD as a percentage of GDP,AUT,Austria,2015,2015,PC,Percentage,0,Units,,,1.5169008859723,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,AUT,Austria,2016,2016,PC,Percentage,0,Units,,,1.65130277444895,e,Estimated value
+G_FBXGDP,Business-financed GERD as a percentage of GDP,AUT,Austria,2017,2017,PC,Percentage,0,Units,,,1.6705305829213,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,AUT,Austria,2018,2018,PC,Percentage,0,Units,,,1.6413431798645,e,Estimated value
+G_FBXGDP,Business-financed GERD as a percentage of GDP,AUT,Austria,2019,2019,PC,Percentage,0,Units,,,1.71810381027709,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,AUT,Austria,2020,2020,PC,Percentage,0,Units,,,1.59424744453689,e,Estimated value
+G_FBXGDP,Business-financed GERD as a percentage of GDP,AUT,Austria,2021,2021,PC,Percentage,0,Units,,,1.72455938363654,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,BEL,Belgium,2015,2015,PC,Percentage,0,Units,,,1.4228243533619,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,BEL,Belgium,2017,2017,PC,Percentage,0,Units,,,1.69312578516441,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,BEL,Belgium,2019,2019,PC,Percentage,0,Units,,,2.02936703963285,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,BEL,Belgium,2021,2021,PC,Percentage,0,Units,,,2.20940772437217,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,CAN,Canada,2015,2015,PC,Percentage,0,Units,,,0.74425717717832,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,CAN,Canada,2016,2016,PC,Percentage,0,Units,,,0.73743480117599,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,CAN,Canada,2017,2017,PC,Percentage,0,Units,,,0.72646464306719,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,CAN,Canada,2018,2018,PC,Percentage,0,Units,,,0.76938732150245,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,CAN,Canada,2019,2019,PC,Percentage,0,Units,,,0.77080243762543,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,CAN,Canada,2020,2020,PC,Percentage,0,Units,,,0.82138553030958,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,CAN,Canada,2021,2021,PC,Percentage,0,Units,,,0.74744443178205,p,Provisional value
+G_FBXGDP,Business-financed GERD as a percentage of GDP,CAN,Canada,2022,2022,PC,Percentage,0,Units,,,0.6851394985706,p,Provisional value
+G_FBXGDP,Business-financed GERD as a percentage of GDP,CZE,Czechia,2015,2015,PC,Percentage,0,Units,,,0.66181685042822,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,CZE,Czechia,2016,2016,PC,Percentage,0,Units,,,0.66033062734146,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,CZE,Czechia,2017,2017,PC,Percentage,0,Units,,,0.69541816406452,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,CZE,Czechia,2018,2018,PC,Percentage,0,Units,,,0.75793535327101,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,CZE,Czechia,2019,2019,PC,Percentage,0,Units,,,0.7358942492944,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,CZE,Czechia,2020,2020,PC,Percentage,0,Units,,,0.70676345734579,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,CZE,Czechia,2021,2021,PC,Percentage,0,Units,,,0.71964960252701,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,DNK,Denmark,2015,2015,PC,Percentage,0,Units,,,1.80577443282209,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,DNK,Denmark,2017,2017,PC,Percentage,0,Units,,,1.67435794389833,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,DNK,Denmark,2019,2019,PC,Percentage,0,Units,,,1.71626028338196,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,FIN,Finland,2015,2015,PC,Percentage,0,Units,,,1.57281737114743,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,FIN,Finland,2016,2016,PC,Percentage,0,Units,,,1.55260714055848,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,FIN,Finland,2017,2017,PC,Percentage,0,Units,,,1.5824057339561,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,FIN,Finland,2018,2018,PC,Percentage,0,Units,,,1.53879432198816,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,FIN,Finland,2019,2019,PC,Percentage,0,Units,,,1.52106663109006,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,FIN,Finland,2020,2020,PC,Percentage,0,Units,,,1.62978179954461,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,FIN,Finland,2021,2021,PC,Percentage,0,Units,,,1.7340801849195,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,FRA,France,2015,2015,PC,Percentage,0,Units,,,1.22508087582422,s,Unrevised breakdown not adding to the revised total
+G_FBXGDP,Business-financed GERD as a percentage of GDP,FRA,France,2016,2016,PC,Percentage,0,Units,,,1.24379491963087,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,FRA,France,2017,2017,PC,Percentage,0,Units,,,1.23565088049061,s,Unrevised breakdown not adding to the revised total
+G_FBXGDP,Business-financed GERD as a percentage of GDP,FRA,France,2018,2018,PC,Percentage,0,Units,,,1.24399006726171,s,Unrevised breakdown not adding to the revised total
+G_FBXGDP,Business-financed GERD as a percentage of GDP,FRA,France,2019,2019,PC,Percentage,0,Units,,,1.24377960605259,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,FRA,France,2020,2020,PC,Percentage,0,Units,,,1.28798167991001,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,FRA,France,2021,2021,PC,Percentage,0,Units,,,1.23004374117807,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,DEU,Germany,2015,2015,PC,Percentage,0,Units,,,1.92665773351222,d,Definition differs
+G_FBXGDP,Business-financed GERD as a percentage of GDP,DEU,Germany,2016,2016,PC,Percentage,0,Units,,,1.91775190286914,d,Definition differs
+G_FBXGDP,Business-financed GERD as a percentage of GDP,DEU,Germany,2017,2017,PC,Percentage,0,Units,,,2.01655471418602,d,Definition differs
+G_FBXGDP,Business-financed GERD as a percentage of GDP,DEU,Germany,2018,2018,PC,Percentage,0,Units,,,2.05290778350592,d,Definition differs
+G_FBXGDP,Business-financed GERD as a percentage of GDP,DEU,Germany,2019,2019,PC,Percentage,0,Units,,,2.04136282385992,d,Definition differs
+G_FBXGDP,Business-financed GERD as a percentage of GDP,DEU,Germany,2020,2020,PC,Percentage,0,Units,,,1.96065950411549,d; e,Definition differs; Estimated value
+G_FBXGDP,Business-financed GERD as a percentage of GDP,DEU,Germany,2021,2021,PC,Percentage,0,Units,,,1.96423003026994,d,Definition differs
+G_FBXGDP,Business-financed GERD as a percentage of GDP,GRC,Greece,2015,2015,PC,Percentage,0,Units,,,0.30334150262247,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,GRC,Greece,2016,2016,PC,Percentage,0,Units,,,0.40432292547243,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,GRC,Greece,2017,2017,PC,Percentage,0,Units,,,0.51584655857646,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,GRC,Greece,2018,2018,PC,Percentage,0,Units,,,0.51579524144751,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,GRC,Greece,2019,2019,PC,Percentage,0,Units,,,0.52824844201466,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,GRC,Greece,2020,2020,PC,Percentage,0,Units,,,0.60238473380221,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,GRC,Greece,2021,2021,PC,Percentage,0,Units,,,0.55774986947287,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,HUN,Hungary,2015,2015,PC,Percentage,0,Units,,,0.6660008048571,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,HUN,Hungary,2016,2016,PC,Percentage,0,Units,,,0.66576745840117,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,HUN,Hungary,2017,2017,PC,Percentage,0,Units,,,0.69381104000211,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,HUN,Hungary,2018,2018,PC,Percentage,0,Units,,,0.78932442676571,b,Time series break
+G_FBXGDP,Business-financed GERD as a percentage of GDP,HUN,Hungary,2019,2019,PC,Percentage,0,Units,,,0.77916965841494,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,HUN,Hungary,2020,2020,PC,Percentage,0,Units,,,0.80017043114607,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,HUN,Hungary,2021,2021,PC,Percentage,0,Units,,,0.83057915527481,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,ISL,Iceland,2015,2015,PC,Percentage,0,Units,,,0.90356881658781,w,Includes data from another category
+G_FBXGDP,Business-financed GERD as a percentage of GDP,ISL,Iceland,2016,2016,PC,Percentage,0,Units,,,0.90371833554616,e; w,Estimated value; Includes data from another category
+G_FBXGDP,Business-financed GERD as a percentage of GDP,ISL,Iceland,2017,2017,PC,Percentage,0,Units,,,0.82172723620084,w,Includes data from another category
+G_FBXGDP,Business-financed GERD as a percentage of GDP,ISL,Iceland,2018,2018,PC,Percentage,0,Units,,,0.89977170870838,e; w,Estimated value; Includes data from another category
+G_FBXGDP,Business-financed GERD as a percentage of GDP,ISL,Iceland,2019,2019,PC,Percentage,0,Units,,,0.97164626360049,w,Includes data from another category
+G_FBXGDP,Business-financed GERD as a percentage of GDP,ISL,Iceland,2020,2020,PC,Percentage,0,Units,,,1.02345004923046,e; w,Estimated value; Includes data from another category
+G_FBXGDP,Business-financed GERD as a percentage of GDP,ISL,Iceland,2021,2021,PC,Percentage,0,Units,,,1.37036562537718,b,Time series break
+G_FBXGDP,Business-financed GERD as a percentage of GDP,IRL,Ireland,2015,2015,PC,Percentage,0,Units,,,0.57444430787173,e,Estimated value
+G_FBXGDP,Business-financed GERD as a percentage of GDP,IRL,Ireland,2016,2016,PC,Percentage,0,Units,,,0.57684712982022,e,Estimated value
+G_FBXGDP,Business-financed GERD as a percentage of GDP,IRL,Ireland,2017,2017,PC,Percentage,0,Units,,,0.6410685146192,e,Estimated value
+G_FBXGDP,Business-financed GERD as a percentage of GDP,IRL,Ireland,2018,2018,PC,Percentage,0,Units,,,0.58759588641005,e; p,Estimated value; Provisional value
+G_FBXGDP,Business-financed GERD as a percentage of GDP,IRL,Ireland,2019,2019,PC,Percentage,0,Units,,,0.76997983156299,e; p,Estimated value; Provisional value
+G_FBXGDP,Business-financed GERD as a percentage of GDP,IRL,Ireland,2021,2021,PC,Percentage,0,Units,,,0.6166821398118,b,Time series break
+G_FBXGDP,Business-financed GERD as a percentage of GDP,ITA,Italy,2015,2015,PC,Percentage,0,Units,,,0.66916159977769,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,ITA,Italy,2016,2016,PC,Percentage,0,Units,,,0.71157842483501,b,Time series break
+G_FBXGDP,Business-financed GERD as a percentage of GDP,ITA,Italy,2017,2017,PC,Percentage,0,Units,,,0.73555009556644,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,ITA,Italy,2018,2018,PC,Percentage,0,Units,,,0.7763000064582,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,ITA,Italy,2019,2019,PC,Percentage,0,Units,,,0.81760745076179,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,ITA,Italy,2020,2020,PC,Percentage,0,Units,,,0.79626812418081,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,ITA,Italy,2021,2021,PC,Percentage,0,Units,,,0.78384062341519,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,JPN,Japan,2015,2015,PC,Percentage,0,Units,,,2.52685665897754,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,JPN,Japan,2016,2016,PC,Percentage,0,Units,,,2.42591674770916,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,JPN,Japan,2017,2017,PC,Percentage,0,Units,,,2.47819835717889,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,JPN,Japan,2018,2018,PC,Percentage,0,Units,,,2.54505245045139,b,Time series break
+G_FBXGDP,Business-financed GERD as a percentage of GDP,JPN,Japan,2019,2019,PC,Percentage,0,Units,,,2.53959432224649,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,JPN,Japan,2020,2020,PC,Percentage,0,Units,,,2.55979642444272,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,JPN,Japan,2021,2021,PC,Percentage,0,Units,,,2.57307201053989,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,KOR,Korea,2015,2015,PC,Percentage,0,Units,,,2.9655844552938,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,KOR,Korea,2016,2016,PC,Percentage,0,Units,,,3.00703584797616,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,KOR,Korea,2017,2017,PC,Percentage,0,Units,,,3.27201330799355,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,KOR,Korea,2018,2018,PC,Percentage,0,Units,,,3.46133304024608,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,KOR,Korea,2019,2019,PC,Percentage,0,Units,,,3.56048971711092,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,KOR,Korea,2020,2020,PC,Percentage,0,Units,,,3.67229856153702,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,KOR,Korea,2021,2021,PC,Percentage,0,Units,,,3.75265097612019,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,LUX,Luxembourg,2015,2015,PC,Percentage,0,Units,,,0.60451804932424,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,LUX,Luxembourg,2017,2017,PC,Percentage,0,Units,,,0.61424698168007,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,LUX,Luxembourg,2019,2019,PC,Percentage,0,Units,,,0.60650671563098,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,LUX,Luxembourg,2021,2021,PC,Percentage,0,Units,,,0.46043456819741,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,MEX,Mexico,2015,2015,PC,Percentage,0,Units,,,0.07467676619113,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,MEX,Mexico,2016,2016,PC,Percentage,0,Units,,,0.07284375729697,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,MEX,Mexico,2017,2017,PC,Percentage,0,Units,,,0.06255474621053,e,Estimated value
+G_FBXGDP,Business-financed GERD as a percentage of GDP,NLD,Netherlands,2015,2015,PC,Percentage,0,Units,,,1.1678125471009,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,NLD,Netherlands,2016,2016,PC,Percentage,0,Units,,,1.20084084270623,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,NLD,Netherlands,2017,2017,PC,Percentage,0,Units,,,1.22902515220566,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,NLD,Netherlands,2018,2018,PC,Percentage,0,Units,,,1.21358627470487,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,NLD,Netherlands,2019,2019,PC,Percentage,0,Units,,,1.25809447085376,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,NLD,Netherlands,2020,2020,PC,Percentage,0,Units,,,1.3207286605652,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,NLD,Netherlands,2021,2021,PC,Percentage,0,Units,,,1.28240681287453,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,NZL,New Zealand,2015,2015,PC,Percentage,0,Units,,,0.53732278530587,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,NZL,New Zealand,2017,2017,PC,Percentage,0,Units,,,0.62055182330096,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,NZL,New Zealand,2019,2019,PC,Percentage,0,Units,,,0.70287460865476,p,Provisional value
+G_FBXGDP,Business-financed GERD as a percentage of GDP,NZL,New Zealand,2021,2021,PC,Percentage,0,Units,,,0.73600679304941,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,NOR,Norway,2015,2015,PC,Percentage,0,Units,,,0.85086079631766,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,NOR,Norway,2016,2016,PC,Percentage,0,Units,,,0.87820258758326,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,NOR,Norway,2017,2017,PC,Percentage,0,Units,,,0.89149508757327,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,NOR,Norway,2018,2018,PC,Percentage,0,Units,,,0.85532244341733,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,NOR,Norway,2019,2019,PC,Percentage,0,Units,,,0.92333282456712,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,NOR,Norway,2020,2020,PC,Percentage,0,Units,,,0.99838657258618,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,NOR,Norway,2021,2021,PC,Percentage,0,Units,,,0.84203354481174,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,POL,Poland,2015,2015,PC,Percentage,0,Units,,,0.3916938332617,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,POL,Poland,2016,2016,PC,Percentage,0,Units,,,0.51415790481895,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,POL,Poland,2017,2017,PC,Percentage,0,Units,,,0.54530122645116,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,POL,Poland,2018,2018,PC,Percentage,0,Units,,,0.6415658032472,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,POL,Poland,2019,2019,PC,Percentage,0,Units,,,0.67067859533702,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,POL,Poland,2020,2020,PC,Percentage,0,Units,,,0.70185935409245,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,POL,Poland,2021,2021,PC,Percentage,0,Units,,,0.729818177465,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,PRT,Portugal,2015,2015,PC,Percentage,0,Units,,,0.53030117844626,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,PRT,Portugal,2016,2016,PC,Percentage,0,Units,,,0.56861658785208,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,PRT,Portugal,2017,2017,PC,Percentage,0,Units,,,0.6136462978983,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,PRT,Portugal,2018,2018,PC,Percentage,0,Units,,,0.63869632574497,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,PRT,Portugal,2019,2019,PC,Percentage,0,Units,,,0.67348947790555,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,PRT,Portugal,2020,2020,PC,Percentage,0,Units,,,0.84169419745202,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,PRT,Portugal,2021,2021,PC,Percentage,0,Units,,,0.90183663894399,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,SVK,Slovak Republic,2015,2015,PC,Percentage,0,Units,,,0.28997935852271,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,SVK,Slovak Republic,2016,2016,PC,Percentage,0,Units,,,0.36449797814432,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,SVK,Slovak Republic,2017,2017,PC,Percentage,0,Units,,,0.43370941001839,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,SVK,Slovak Republic,2018,2018,PC,Percentage,0,Units,,,0.40813936354698,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,SVK,Slovak Republic,2019,2019,PC,Percentage,0,Units,,,0.38452697221637,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,SVK,Slovak Republic,2020,2020,PC,Percentage,0,Units,,,0.39223373467028,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,SVK,Slovak Republic,2021,2021,PC,Percentage,0,Units,,,0.41836314286351,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,ESP,Spain,2015,2015,PC,Percentage,0,Units,,,0.56015627608776,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,ESP,Spain,2016,2016,PC,Percentage,0,Units,,,0.55570494068664,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,ESP,Spain,2017,2017,PC,Percentage,0,Units,,,0.57809964283625,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,ESP,Spain,2018,2018,PC,Percentage,0,Units,,,0.61444072769319,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,ESP,Spain,2019,2019,PC,Percentage,0,Units,,,0.61380330835567,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,ESP,Spain,2020,2020,PC,Percentage,0,Units,,,0.69365619876403,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,ESP,Spain,2021,2021,PC,Percentage,0,Units,,,0.71807771937006,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,SWE,Sweden,2015,2015,PC,Percentage,0,Units,,,1.84320039807815,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,SWE,Sweden,2017,2017,PC,Percentage,0,Units,,,2.04311523182015,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,SWE,Sweden,2019,2019,PC,Percentage,0,Units,,,2.1145357699264,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,SWE,Sweden,2021,2021,PC,Percentage,0,Units,,,2.06352279516593,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,CHE,Switzerland,2015,2015,PC,Percentage,0,Units,,,1.90628268664324,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,CHE,Switzerland,2017,2017,PC,Percentage,0,Units,,,1.98285146044684,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,CHE,Switzerland,2019,2019,PC,Percentage,0,Units,,,2.0683857127711,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,CHE,Switzerland,2021,2021,PC,Percentage,0,Units,,,2.21404069029807,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,TUR,Türkiye,2015,2015,PC,Percentage,0,Units,,,0.39084645932827,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,TUR,Türkiye,2016,2016,PC,Percentage,0,Units,,,0.48233964953342,b,Time series break
+G_FBXGDP,Business-financed GERD as a percentage of GDP,TUR,Türkiye,2017,2017,PC,Percentage,0,Units,,,0.5146195063722,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,TUR,Türkiye,2018,2018,PC,Percentage,0,Units,,,0.60139466570237,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,TUR,Türkiye,2019,2019,PC,Percentage,0,Units,,,0.65511018360733,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,TUR,Türkiye,2020,2020,PC,Percentage,0,Units,,,0.67863182181673,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,TUR,Türkiye,2021,2021,PC,Percentage,0,Units,,,0.766000721089,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,GBR,United Kingdom,2018,2018,PC,Percentage,0,Units,,,1.5730616804409,b; e; p,Time series break; Estimated value; Provisional value
+G_FBXGDP,Business-financed GERD as a percentage of GDP,GBR,United Kingdom,2019,2019,PC,Percentage,0,Units,,,1.57185567212962,p,Provisional value
+G_FBXGDP,Business-financed GERD as a percentage of GDP,GBR,United Kingdom,2020,2020,PC,Percentage,0,Units,,,1.68330967949283,p,Provisional value
+G_FBXGDP,Business-financed GERD as a percentage of GDP,GBR,United Kingdom,2021,2021,PC,Percentage,0,Units,,,1.70643798072984,p,Provisional value
+G_FBXGDP,Business-financed GERD as a percentage of GDP,USA,United States,2015,2015,PC,Percentage,0,Units,,,1.76415244559452,b,Time series break
+G_FBXGDP,Business-financed GERD as a percentage of GDP,USA,United States,2016,2016,PC,Percentage,0,Units,,,1.82709849304946,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,USA,United States,2017,2017,PC,Percentage,0,Units,,,1.84266976537912,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,USA,United States,2018,2018,PC,Percentage,0,Units,,,1.92940574170686,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,USA,United States,2019,2019,PC,Percentage,0,Units,,,2.08157008361078,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,USA,United States,2020,2020,PC,Percentage,0,Units,,,2.29904607085292,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,USA,United States,2021,2021,PC,Percentage,0,Units,,,2.34761783585483,p,Provisional value
+G_FBXGDP,Business-financed GERD as a percentage of GDP,ARG,Argentina,2015,2015,PC,Percentage,0,Units,,,0.10651087356903,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,ARG,Argentina,2016,2016,PC,Percentage,0,Units,,,0.09671460333272,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,ARG,Argentina,2017,2017,PC,Percentage,0,Units,,,0.09913567992428,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,ARG,Argentina,2018,2018,PC,Percentage,0,Units,,,0.10524425241444,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,ARG,Argentina,2019,2019,PC,Percentage,0,Units,,,0.11300356292701,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,ARG,Argentina,2020,2020,PC,Percentage,0,Units,,,0.12756101611294,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,ARG,Argentina,2021,2021,PC,Percentage,0,Units,,,0.10909841405721,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,CHL,Chile,2015,2015,PC,Percentage,0,Units,,,0.12550719500182,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,CHL,Chile,2016,2016,PC,Percentage,0,Units,,,0.13013683887948,b,Time series break
+G_FBXGDP,Business-financed GERD as a percentage of GDP,CHL,Chile,2017,2017,PC,Percentage,0,Units,,,0.1120213036837,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,CHL,Chile,2018,2018,PC,Percentage,0,Units,,,0.11316103368079,e,Estimated value
+G_FBXGDP,Business-financed GERD as a percentage of GDP,CHL,Chile,2019,2019,PC,Percentage,0,Units,,,0.1060608324004,e,Estimated value
+G_FBXGDP,Business-financed GERD as a percentage of GDP,CHL,Chile,2020,2020,PC,Percentage,0,Units,,,0.1163743280509,e,Estimated value
+G_FBXGDP,Business-financed GERD as a percentage of GDP,CHN,China (People's Republic of),2015,2015,PC,Percentage,0,Units,,,1.53712103013363,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,CHN,China (People's Republic of),2016,2016,PC,Percentage,0,Units,,,1.59748430824372,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,CHN,China (People's Republic of),2017,2017,PC,Percentage,0,Units,,,1.61831259104173,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,CHN,China (People's Republic of),2018,2018,PC,Percentage,0,Units,,,1.64033610176474,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,CHN,China (People's Republic of),2019,2019,PC,Percentage,0,Units,,,1.71179832302635,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,CHN,China (People's Republic of),2020,2020,PC,Percentage,0,Units,,,1.86421143348195,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,CHN,China (People's Republic of),2021,2021,PC,Percentage,0,Units,,,1.89767642444509,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,EST,Estonia,2015,2015,PC,Percentage,0,Units,,,0.60189919504925,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,EST,Estonia,2016,2016,PC,Percentage,0,Units,,,0.59959785192782,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,EST,Estonia,2017,2017,PC,Percentage,0,Units,,,0.55635707524076,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,EST,Estonia,2018,2018,PC,Percentage,0,Units,,,0.5756555188528,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,EST,Estonia,2019,2019,PC,Percentage,0,Units,,,0.80119649088399,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,EST,Estonia,2020,2020,PC,Percentage,0,Units,,,0.87777226874257,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,EST,Estonia,2021,2021,PC,Percentage,0,Units,,,0.89265224734636,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,ISR,Israel,2015,2015,PC,Percentage,0,Units,,,1.39749948507897,d,Definition differs
+G_FBXGDP,Business-financed GERD as a percentage of GDP,ISR,Israel,2016,2016,PC,Percentage,0,Units,,,1.70993271736812,d,Definition differs
+G_FBXGDP,Business-financed GERD as a percentage of GDP,ISR,Israel,2017,2017,PC,Percentage,0,Units,,,1.63210419882784,d,Definition differs
+G_FBXGDP,Business-financed GERD as a percentage of GDP,ISR,Israel,2018,2018,PC,Percentage,0,Units,,,1.77358726130012,d,Definition differs
+G_FBXGDP,Business-financed GERD as a percentage of GDP,ISR,Israel,2019,2019,PC,Percentage,0,Units,,,1.9240898119415,d,Definition differs
+G_FBXGDP,Business-financed GERD as a percentage of GDP,ISR,Israel,2020,2020,PC,Percentage,0,Units,,,2.28395220369535,d,Definition differs
+G_FBXGDP,Business-financed GERD as a percentage of GDP,ROU,Romania,2015,2015,PC,Percentage,0,Units,,,0.18196767187299,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,ROU,Romania,2016,2016,PC,Percentage,0,Units,,,0.24125002459726,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,ROU,Romania,2017,2017,PC,Percentage,0,Units,,,0.27579047314194,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,ROU,Romania,2018,2018,PC,Percentage,0,Units,,,0.28382961103732,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,ROU,Romania,2019,2019,PC,Percentage,0,Units,,,0.25986730182688,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,ROU,Romania,2020,2020,PC,Percentage,0,Units,,,0.25882795551662,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,ROU,Romania,2021,2021,PC,Percentage,0,Units,,,0.26097236387597,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,RUS,Russia,2015,2015,PC,Percentage,0,Units,,,0.29144673715539,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,RUS,Russia,2016,2016,PC,Percentage,0,Units,,,0.30984505273529,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,RUS,Russia,2017,2017,PC,Percentage,0,Units,,,0.33476528836376,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,RUS,Russia,2018,2018,PC,Percentage,0,Units,,,0.29194529144165,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,RUS,Russia,2019,2019,PC,Percentage,0,Units,,,0.31383026209434,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,RUS,Russia,2020,2020,PC,Percentage,0,Units,,,0.32091815765795,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,SGP,Singapore,2015,2015,PC,Percentage,0,Units,,,1.14390541750375,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,SGP,Singapore,2016,2016,PC,Percentage,0,Units,,,1.06573257803286,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,SGP,Singapore,2017,2017,PC,Percentage,0,Units,,,0.98430528789317,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,SGP,Singapore,2018,2018,PC,Percentage,0,Units,,,0.94611198565084,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,SGP,Singapore,2019,2019,PC,Percentage,0,Units,,,1.05037457576079,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,SGP,Singapore,2020,2020,PC,Percentage,0,Units,,,1.2921515621859,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,SVN,Slovenia,2015,2015,PC,Percentage,0,Units,,,1.51958268183746,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,SVN,Slovenia,2016,2016,PC,Percentage,0,Units,,,1.39024302449868,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,SVN,Slovenia,2017,2017,PC,Percentage,0,Units,,,1.00849223781384,b,Time series break
+G_FBXGDP,Business-financed GERD as a percentage of GDP,SVN,Slovenia,2018,2018,PC,Percentage,0,Units,,,1.00855690289566,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,SVN,Slovenia,2019,2019,PC,Percentage,0,Units,,,1.05886447560347,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,SVN,Slovenia,2020,2020,PC,Percentage,0,Units,,,1.06006885427118,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,SVN,Slovenia,2021,2021,PC,Percentage,0,Units,,,1.03692879714292,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,ZAF,South Africa,2015,2015,PC,Percentage,0,Units,,,0.2845304240222,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,ZAF,South Africa,2016,2016,PC,Percentage,0,Units,,,0.29510941893848,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,ZAF,South Africa,2017,2017,PC,Percentage,0,Units,,,0.31638921160453,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,ZAF,South Africa,2018,2018,PC,Percentage,0,Units,,,0.27099771037012,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,ZAF,South Africa,2019,2019,PC,Percentage,0,Units,,,0.16637202114664,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,ZAF,South Africa,2020,2020,PC,Percentage,0,Units,,,0.16224979977211,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,TWN,Chinese Taipei,2015,2015,PC,Percentage,0,Units,,,2.33169859237951,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,TWN,Chinese Taipei,2016,2016,PC,Percentage,0,Units,,,2.39608676519493,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,TWN,Chinese Taipei,2017,2017,PC,Percentage,0,Units,,,2.53156690696432,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,TWN,Chinese Taipei,2018,2018,PC,Percentage,0,Units,,,2.69350279218855,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,TWN,Chinese Taipei,2019,2019,PC,Percentage,0,Units,,,2.83104965714521,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,TWN,Chinese Taipei,2020,2020,PC,Percentage,0,Units,,,2.97726404409036,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,TWN,Chinese Taipei,2021,2021,PC,Percentage,0,Units,,,3.17802792537595,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,OECD,OECD - Total,2015,2015,PC,Percentage,0,Units,,,1.47109573466088,e,Estimated value
+G_FBXGDP,Business-financed GERD as a percentage of GDP,OECD,OECD - Total,2016,2016,PC,Percentage,0,Units,,,1.4875557723067,e,Estimated value
+G_FBXGDP,Business-financed GERD as a percentage of GDP,OECD,OECD - Total,2017,2017,PC,Percentage,0,Units,,,1.51614742544862,e,Estimated value
+G_FBXGDP,Business-financed GERD as a percentage of GDP,OECD,OECD - Total,2018,2018,PC,Percentage,0,Units,,,1.57677764181721,e,Estimated value
+G_FBXGDP,Business-financed GERD as a percentage of GDP,OECD,OECD - Total,2019,2019,PC,Percentage,0,Units,,,1.63813078620415,e,Estimated value
+G_FBXGDP,Business-financed GERD as a percentage of GDP,OECD,OECD - Total,2020,2020,PC,Percentage,0,Units,,,1.74334004102464,e,Estimated value
+G_FBXGDP,Business-financed GERD as a percentage of GDP,OECD,OECD - Total,2021,2021,PC,Percentage,0,Units,,,1.75589433946963,e,Estimated value
+G_FBXGDP,Business-financed GERD as a percentage of GDP,LVA,Latvia,2015,2015,PC,Percentage,0,Units,,,0.12412438386487,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,LVA,Latvia,2016,2016,PC,Percentage,0,Units,,,0.093806692942,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,LVA,Latvia,2017,2017,PC,Percentage,0,Units,,,0.12340448287351,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,LVA,Latvia,2018,2018,PC,Percentage,0,Units,,,0.14269271302616,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,LVA,Latvia,2019,2019,PC,Percentage,0,Units,,,0.15450486812569,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,LVA,Latvia,2020,2020,PC,Percentage,0,Units,,,0.22806133680728,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,LVA,Latvia,2021,2021,PC,Percentage,0,Units,,,0.24797247815926,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,LTU,Lithuania,2015,2015,PC,Percentage,0,Units,,,0.29769693738289,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,LTU,Lithuania,2016,2016,PC,Percentage,0,Units,,,0.32827321115668,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,LTU,Lithuania,2017,2017,PC,Percentage,0,Units,,,0.31746157713274,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,LTU,Lithuania,2018,2018,PC,Percentage,0,Units,,,0.35624562246076,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,LTU,Lithuania,2019,2019,PC,Percentage,0,Units,,,0.33783994556555,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,LTU,Lithuania,2020,2020,PC,Percentage,0,Units,,,0.42302424993442,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,LTU,Lithuania,2021,2021,PC,Percentage,0,Units,,,0.40048494719345,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,COL,Colombia,2015,2015,PC,Percentage,0,Units,,,0.17670967646815,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,COL,Colombia,2016,2016,PC,Percentage,0,Units,,,0.11082861511655,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,COL,Colombia,2017,2017,PC,Percentage,0,Units,,,0.09938950210677,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,COL,Colombia,2018,2018,PC,Percentage,0,Units,,,0.14066487808203,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,COL,Colombia,2019,2019,PC,Percentage,0,Units,,,0.15887082078656,e,Estimated value
+G_FBXGDP,Business-financed GERD as a percentage of GDP,COL,Colombia,2020,2020,PC,Percentage,0,Units,,,0.15471013281639,e,Estimated value
+G_FBXGDP,Business-financed GERD as a percentage of GDP,EU27_2020,European Union – 27 countries (from 01/02/2020),2015,2015,PC,Percentage,0,Units,,,1.11933573879867,e,Estimated value
+G_FBXGDP,Business-financed GERD as a percentage of GDP,EU27_2020,European Union – 27 countries (from 01/02/2020),2016,2016,PC,Percentage,0,Units,,,1.14770677758758,e,Estimated value
+G_FBXGDP,Business-financed GERD as a percentage of GDP,EU27_2020,European Union – 27 countries (from 01/02/2020),2017,2017,PC,Percentage,0,Units,,,1.18730522740406,e,Estimated value
+G_FBXGDP,Business-financed GERD as a percentage of GDP,EU27_2020,European Union – 27 countries (from 01/02/2020),2018,2018,PC,Percentage,0,Units,,,1.2143887593412,e,Estimated value
+G_FBXGDP,Business-financed GERD as a percentage of GDP,EU27_2020,European Union – 27 countries (from 01/02/2020),2019,2019,PC,Percentage,0,Units,,,1.22853313866832,e,Estimated value
+G_FBXGDP,Business-financed GERD as a percentage of GDP,EU27_2020,European Union – 27 countries (from 01/02/2020),2020,2020,PC,Percentage,0,Units,,,1.24245945501497,e,Estimated value
+G_FBXGDP,Business-financed GERD as a percentage of GDP,EU27_2020,European Union – 27 countries (from 01/02/2020),2021,2021,PC,Percentage,0,Units,,,1.22930199035067,e,Estimated value
+G_FBXGDP,Business-financed GERD as a percentage of GDP,CRI,Costa Rica,2015,2015,PC,Percentage,0,Units,,,0.14320664985865,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,CRI,Costa Rica,2016,2016,PC,Percentage,0,Units,,,0.13099559561429,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,CRI,Costa Rica,2017,2017,PC,Percentage,0,Units,,,0.12050376260032,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,CRI,Costa Rica,2018,2018,PC,Percentage,0,Units,,,0.10322900068682,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,CRI,Costa Rica,2020,2020,PC,Percentage,0,Units,,,0.09240782716546,,
+G_FBXGDP,Business-financed GERD as a percentage of GDP,CRI,Costa Rica,2021,2021,PC,Percentage,0,Units,,,0.08067542137787,,

@@ -1,0 +1,283 @@
+MSTI_VAR,MSTI Variables,COU,Country,YEAR,Year,Unit Code,Unit,PowerCode Code,PowerCode,Reference Period Code,Reference Period,Value,Flag Codes,Flags
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",AUS,Australia,2015,2015,NBR,Number,0,Units,,,350.5935,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",AUS,Australia,2016,2016,NBR,Number,0,Units,,,366.5414,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",AUS,Australia,2017,2017,NBR,Number,0,Units,,,371.8898,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",AUS,Australia,2018,2018,NBR,Number,0,Units,,,385.7861,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",AUS,Australia,2019,2019,NBR,Number,0,Units,,,365.135,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",AUS,Australia,2020,2020,NBR,Number,0,Units,,,375.9081,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",AUT,Austria,2015,2015,NBR,Number,0,Units,,,403.6615,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",AUT,Austria,2016,2016,NBR,Number,0,Units,,,375.6915,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",AUT,Austria,2017,2017,NBR,Number,0,Units,,,440.4397,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",AUT,Austria,2018,2018,NBR,Number,0,Units,,,442.6688,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",AUT,Austria,2019,2019,NBR,Number,0,Units,,,422.7293,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",AUT,Austria,2020,2020,NBR,Number,0,Units,,,436.868,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",BEL,Belgium,2015,2015,NBR,Number,0,Units,,,424.6147,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",BEL,Belgium,2016,2016,NBR,Number,0,Units,,,425.5141,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",BEL,Belgium,2017,2017,NBR,Number,0,Units,,,411.0294,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",BEL,Belgium,2018,2018,NBR,Number,0,Units,,,412.9282,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",BEL,Belgium,2019,2019,NBR,Number,0,Units,,,394.6998,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",BEL,Belgium,2020,2020,NBR,Number,0,Units,,,402.654,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",CAN,Canada,2015,2015,NBR,Number,0,Units,,,590.0161,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",CAN,Canada,2016,2016,NBR,Number,0,Units,,,655.6234,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",CAN,Canada,2017,2017,NBR,Number,0,Units,,,629.8774,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",CAN,Canada,2018,2018,NBR,Number,0,Units,,,684.1563,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",CAN,Canada,2019,2019,NBR,Number,0,Units,,,679.45,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",CAN,Canada,2020,2020,NBR,Number,0,Units,,,676.015,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",CZE,Czechia,2015,2015,NBR,Number,0,Units,,,52.6124,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",CZE,Czechia,2016,2016,NBR,Number,0,Units,,,56.5662,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",CZE,Czechia,2017,2017,NBR,Number,0,Units,,,37.4682,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",CZE,Czechia,2018,2018,NBR,Number,0,Units,,,43.8771,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",CZE,Czechia,2019,2019,NBR,Number,0,Units,,,41.861,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",CZE,Czechia,2020,2020,NBR,Number,0,Units,,,40.8037,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",DNK,Denmark,2015,2015,NBR,Number,0,Units,,,326.3636,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",DNK,Denmark,2016,2016,NBR,Number,0,Units,,,306.2479,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",DNK,Denmark,2017,2017,NBR,Number,0,Units,,,305.8779,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",DNK,Denmark,2018,2018,NBR,Number,0,Units,,,317.4983,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",DNK,Denmark,2019,2019,NBR,Number,0,Units,,,320.1853,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",DNK,Denmark,2020,2020,NBR,Number,0,Units,,,324.5896,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",FIN,Finland,2015,2015,NBR,Number,0,Units,,,268.3015,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",FIN,Finland,2016,2016,NBR,Number,0,Units,,,279.9741,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",FIN,Finland,2017,2017,NBR,Number,0,Units,,,307.1399,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",FIN,Finland,2018,2018,NBR,Number,0,Units,,,311.5223,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",FIN,Finland,2019,2019,NBR,Number,0,Units,,,305.9894,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",FIN,Finland,2020,2020,NBR,Number,0,Units,,,303.4326,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",FRA,France,2015,2015,NBR,Number,0,Units,,,2306.7132,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",FRA,France,2016,2016,NBR,Number,0,Units,,,2141.6983,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",FRA,France,2017,2017,NBR,Number,0,Units,,,2030.2472,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",FRA,France,2018,2018,NBR,Number,0,Units,,,1936.066,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",FRA,France,2019,2019,NBR,Number,0,Units,,,1860.3186,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",FRA,France,2020,2020,NBR,Number,0,Units,,,1874.5855,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",DEU,Germany,2015,2015,NBR,Number,0,Units,,,4761.3456,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",DEU,Germany,2016,2016,NBR,Number,0,Units,,,4917.9292,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",DEU,Germany,2017,2017,NBR,Number,0,Units,,,4731.1673,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",DEU,Germany,2018,2018,NBR,Number,0,Units,,,4621.5303,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",DEU,Germany,2019,2019,NBR,Number,0,Units,,,4381.5675,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",DEU,Germany,2020,2020,NBR,Number,0,Units,,,4453.9593,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",GRC,Greece,2015,2015,NBR,Number,0,Units,,,10.3786,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",GRC,Greece,2016,2016,NBR,Number,0,Units,,,14.9679,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",GRC,Greece,2017,2017,NBR,Number,0,Units,,,26.1528,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",GRC,Greece,2018,2018,NBR,Number,0,Units,,,23.2769,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",GRC,Greece,2019,2019,NBR,Number,0,Units,,,23.6479,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",GRC,Greece,2020,2020,NBR,Number,0,Units,,,23.5111,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",HUN,Hungary,2015,2015,NBR,Number,0,Units,,,35.9117,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",HUN,Hungary,2016,2016,NBR,Number,0,Units,,,50.0045,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",HUN,Hungary,2017,2017,NBR,Number,0,Units,,,31.4506,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",HUN,Hungary,2018,2018,NBR,Number,0,Units,,,58.2722,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",HUN,Hungary,2019,2019,NBR,Number,0,Units,,,61.3487,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",HUN,Hungary,2020,2020,NBR,Number,0,Units,,,58.9471,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",ISL,Iceland,2015,2015,NBR,Number,0,Units,,,4.5833,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",ISL,Iceland,2016,2016,NBR,Number,0,Units,,,2.3333,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",ISL,Iceland,2017,2017,NBR,Number,0,Units,,,3.4167,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",ISL,Iceland,2018,2018,NBR,Number,0,Units,,,5.3095,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",ISL,Iceland,2019,2019,NBR,Number,0,Units,,,4.9577,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",ISL,Iceland,2020,2020,NBR,Number,0,Units,,,4.7134,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",IRL,Ireland,2015,2015,NBR,Number,0,Units,,,100.476,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",IRL,Ireland,2016,2016,NBR,Number,0,Units,,,105.2344,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",IRL,Ireland,2017,2017,NBR,Number,0,Units,,,111.3865,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",IRL,Ireland,2018,2018,NBR,Number,0,Units,,,113.4138,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",IRL,Ireland,2019,2019,NBR,Number,0,Units,,,116.734,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",IRL,Ireland,2020,2020,NBR,Number,0,Units,,,124.3055,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",ITA,Italy,2015,2015,NBR,Number,0,Units,,,828.0399,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",ITA,Italy,2016,2016,NBR,Number,0,Units,,,943.9461,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",ITA,Italy,2017,2017,NBR,Number,0,Units,,,874.7149,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",ITA,Italy,2018,2018,NBR,Number,0,Units,,,895.8496,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",ITA,Italy,2019,2019,NBR,Number,0,Units,,,857.0777,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",ITA,Italy,2020,2020,NBR,Number,0,Units,,,891.7908,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",JPN,Japan,2015,2015,NBR,Number,0,Units,,,17795.9361,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",JPN,Japan,2016,2016,NBR,Number,0,Units,,,18077.6926,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",JPN,Japan,2017,2017,NBR,Number,0,Units,,,18360.5216,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",JPN,Japan,2018,2018,NBR,Number,0,Units,,,18145.8349,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",JPN,Japan,2019,2019,NBR,Number,0,Units,,,17554.7384,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",JPN,Japan,2020,2020,NBR,Number,0,Units,,,17052.5389,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",KOR,Korea,2015,2015,NBR,Number,0,Units,,,2258.9736,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",KOR,Korea,2016,2016,NBR,Number,0,Units,,,2397.7921,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",KOR,Korea,2017,2017,NBR,Number,0,Units,,,2907.4744,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",KOR,Korea,2018,2018,NBR,Number,0,Units,,,3165.3802,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",KOR,Korea,2019,2019,NBR,Number,0,Units,,,3365.5512,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",KOR,Korea,2020,2020,NBR,Number,0,Units,,,3379.3111,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",LUX,Luxembourg,2015,2015,NBR,Number,0,Units,,,22.8311,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",LUX,Luxembourg,2016,2016,NBR,Number,0,Units,,,35.6918,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",LUX,Luxembourg,2017,2017,NBR,Number,0,Units,,,22.3905,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",LUX,Luxembourg,2018,2018,NBR,Number,0,Units,,,25.0691,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",LUX,Luxembourg,2019,2019,NBR,Number,0,Units,,,24.5265,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",LUX,Luxembourg,2020,2020,NBR,Number,0,Units,,,25.6225,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",MEX,Mexico,2015,2015,NBR,Number,0,Units,,,29.9036,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",MEX,Mexico,2016,2016,NBR,Number,0,Units,,,24.8837,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",MEX,Mexico,2017,2017,NBR,Number,0,Units,,,21.3956,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",MEX,Mexico,2018,2018,NBR,Number,0,Units,,,21.1518,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",MEX,Mexico,2019,2019,NBR,Number,0,Units,,,19.516,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",MEX,Mexico,2020,2020,NBR,Number,0,Units,,,18.6005,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",NLD,Netherlands,2015,2015,NBR,Number,0,Units,,,1138.651,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",NLD,Netherlands,2016,2016,NBR,Number,0,Units,,,961.7246,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",NLD,Netherlands,2017,2017,NBR,Number,0,Units,,,909.7954,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",NLD,Netherlands,2018,2018,NBR,Number,0,Units,,,894.3291,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",NLD,Netherlands,2019,2019,NBR,Number,0,Units,,,857.3044,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",NLD,Netherlands,2020,2020,NBR,Number,0,Units,,,867.1926,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",NZL,New Zealand,2015,2015,NBR,Number,0,Units,,,70.1607,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",NZL,New Zealand,2016,2016,NBR,Number,0,Units,,,57.9782,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",NZL,New Zealand,2017,2017,NBR,Number,0,Units,,,58.2429,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",NZL,New Zealand,2018,2018,NBR,Number,0,Units,,,58.1077,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",NZL,New Zealand,2019,2019,NBR,Number,0,Units,,,57.5872,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",NZL,New Zealand,2020,2020,NBR,Number,0,Units,,,63.3449,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",NOR,Norway,2015,2015,NBR,Number,0,Units,,,101.3833,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",NOR,Norway,2016,2016,NBR,Number,0,Units,,,141.9702,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",NOR,Norway,2017,2017,NBR,Number,0,Units,,,116.5066,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",NOR,Norway,2018,2018,NBR,Number,0,Units,,,127.1273,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",NOR,Norway,2019,2019,NBR,Number,0,Units,,,121.5419,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",NOR,Norway,2020,2020,NBR,Number,0,Units,,,118.8716,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",POL,Poland,2015,2015,NBR,Number,0,Units,,,81.1534,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",POL,Poland,2016,2016,NBR,Number,0,Units,,,76.5173,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",POL,Poland,2017,2017,NBR,Number,0,Units,,,73.0469,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",POL,Poland,2018,2018,NBR,Number,0,Units,,,78.007,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",POL,Poland,2019,2019,NBR,Number,0,Units,,,76.1574,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",POL,Poland,2020,2020,NBR,Number,0,Units,,,77.0948,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",PRT,Portugal,2015,2015,NBR,Number,0,Units,,,33.4282,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",PRT,Portugal,2016,2016,NBR,Number,0,Units,,,48.5058,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",PRT,Portugal,2017,2017,NBR,Number,0,Units,,,40.4567,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",PRT,Portugal,2018,2018,NBR,Number,0,Units,,,43.6879,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",PRT,Portugal,2019,2019,NBR,Number,0,Units,,,43.6624,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",PRT,Portugal,2020,2020,NBR,Number,0,Units,,,43.1658,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",SVK,Slovak Republic,2015,2015,NBR,Number,0,Units,,,9.0,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",SVK,Slovak Republic,2016,2016,NBR,Number,0,Units,,,10.9792,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",SVK,Slovak Republic,2017,2017,NBR,Number,0,Units,,,9.0152,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",SVK,Slovak Republic,2018,2018,NBR,Number,0,Units,,,9.9432,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",SVK,Slovak Republic,2019,2019,NBR,Number,0,Units,,,10.029,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",SVK,Slovak Republic,2020,2020,NBR,Number,0,Units,,,10.2536,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",ESP,Spain,2015,2015,NBR,Number,0,Units,,,292.8667,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",ESP,Spain,2016,2016,NBR,Number,0,Units,,,328.4036,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",ESP,Spain,2017,2017,NBR,Number,0,Units,,,289.9618,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",ESP,Spain,2018,2018,NBR,Number,0,Units,,,303.2773,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",ESP,Spain,2019,2019,NBR,Number,0,Units,,,304.721,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",ESP,Spain,2020,2020,NBR,Number,0,Units,,,301.3801,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",SWE,Sweden,2015,2015,NBR,Number,0,Units,,,730.5395,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",SWE,Sweden,2016,2016,NBR,Number,0,Units,,,779.7762,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",SWE,Sweden,2017,2017,NBR,Number,0,Units,,,812.802,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",SWE,Sweden,2018,2018,NBR,Number,0,Units,,,887.825,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",SWE,Sweden,2019,2019,NBR,Number,0,Units,,,867.224,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",SWE,Sweden,2020,2020,NBR,Number,0,Units,,,867.5034,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",CHE,Switzerland,2015,2015,NBR,Number,0,Units,,,1224.8941,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",CHE,Switzerland,2016,2016,NBR,Number,0,Units,,,1210.0373,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",CHE,Switzerland,2017,2017,NBR,Number,0,Units,,,1278.0212,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",CHE,Switzerland,2018,2018,NBR,Number,0,Units,,,1273.4843,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",CHE,Switzerland,2019,2019,NBR,Number,0,Units,,,1268.7169,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",CHE,Switzerland,2020,2020,NBR,Number,0,Units,,,1336.9844,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",TUR,Türkiye,2015,2015,NBR,Number,0,Units,,,50.4667,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",TUR,Türkiye,2016,2016,NBR,Number,0,Units,,,64.7625,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",TUR,Türkiye,2017,2017,NBR,Number,0,Units,,,54.022,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",TUR,Türkiye,2018,2018,NBR,Number,0,Units,,,75.6833,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",TUR,Türkiye,2019,2019,NBR,Number,0,Units,,,70.006,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",TUR,Türkiye,2020,2020,NBR,Number,0,Units,,,69.7347,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",GBR,United Kingdom,2015,2015,NBR,Number,0,Units,,,1687.1163,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",GBR,United Kingdom,2016,2016,NBR,Number,0,Units,,,1644.9796,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",GBR,United Kingdom,2017,2017,NBR,Number,0,Units,,,1686.142,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",GBR,United Kingdom,2018,2018,NBR,Number,0,Units,,,1695.8025,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",GBR,United Kingdom,2019,2019,NBR,Number,0,Units,,,1708.833,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",GBR,United Kingdom,2020,2020,NBR,Number,0,Units,,,1731.824,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",USA,United States,2015,2015,NBR,Number,0,Units,,,13720.9967,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",USA,United States,2016,2016,NBR,Number,0,Units,,,13433.8735,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",USA,United States,2017,2017,NBR,Number,0,Units,,,13163.5072,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",USA,United States,2018,2018,NBR,Number,0,Units,,,13394.1581,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",USA,United States,2019,2019,NBR,Number,0,Units,,,13058.2121,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",USA,United States,2020,2020,NBR,Number,0,Units,,,13293.6595,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",ARG,Argentina,2015,2015,NBR,Number,0,Units,,,11.2333,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",ARG,Argentina,2016,2016,NBR,Number,0,Units,,,13.6722,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",ARG,Argentina,2017,2017,NBR,Number,0,Units,,,9.6905,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",ARG,Argentina,2018,2018,NBR,Number,0,Units,,,10.9167,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",ARG,Argentina,2019,2019,NBR,Number,0,Units,,,10.2856,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",ARG,Argentina,2020,2020,NBR,Number,0,Units,,,10.7889,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",CHL,Chile,2015,2015,NBR,Number,0,Units,,,13.0581,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",CHL,Chile,2016,2016,NBR,Number,0,Units,,,9.5076,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",CHL,Chile,2017,2017,NBR,Number,0,Units,,,13.4476,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",CHL,Chile,2018,2018,NBR,Number,0,Units,,,14.2665,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",CHL,Chile,2019,2019,NBR,Number,0,Units,,,13.7934,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",CHL,Chile,2020,2020,NBR,Number,0,Units,,,13.6817,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",CHN,China (People's Republic of),2015,2015,NBR,Number,0,Units,,,3259.8764,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",CHN,China (People's Republic of),2016,2016,NBR,Number,0,Units,,,3506.4637,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",CHN,China (People's Republic of),2017,2017,NBR,Number,0,Units,,,4455.3065,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",CHN,China (People's Republic of),2018,2018,NBR,Number,0,Units,,,5045.9405,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",CHN,China (People's Republic of),2019,2019,NBR,Number,0,Units,,,5895.6384,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",CHN,China (People's Republic of),2020,2020,NBR,Number,0,Units,,,6038.7958,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",EST,Estonia,2015,2015,NBR,Number,0,Units,,,4.2,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",EST,Estonia,2016,2016,NBR,Number,0,Units,,,4.1667,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",EST,Estonia,2017,2017,NBR,Number,0,Units,,,3.9929,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",EST,Estonia,2018,2018,NBR,Number,0,Units,,,7.0833,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",EST,Estonia,2019,2019,NBR,Number,0,Units,,,7.2921,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",EST,Estonia,2020,2020,NBR,Number,0,Units,,,7.375,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",ISR,Israel,2015,2015,NBR,Number,0,Units,,,515.4753,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",ISR,Israel,2016,2016,NBR,Number,0,Units,,,501.4018,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",ISR,Israel,2017,2017,NBR,Number,0,Units,,,599.9726,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",ISR,Israel,2018,2018,NBR,Number,0,Units,,,615.7862,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",ISR,Israel,2019,2019,NBR,Number,0,Units,,,586.2641,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",ISR,Israel,2020,2020,NBR,Number,0,Units,,,595.5719,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",ROU,Romania,2015,2015,NBR,Number,0,Units,,,13.7417,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",ROU,Romania,2016,2016,NBR,Number,0,Units,,,14.0964,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",ROU,Romania,2017,2017,NBR,Number,0,Units,,,8.9917,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",ROU,Romania,2018,2018,NBR,Number,0,Units,,,16.6583,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",ROU,Romania,2019,2019,NBR,Number,0,Units,,,15.9437,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",ROU,Romania,2020,2020,NBR,Number,0,Units,,,14.5222,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",RUS,Russia,2015,2015,NBR,Number,0,Units,,,90.4365,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",RUS,Russia,2016,2016,NBR,Number,0,Units,,,115.7594,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",RUS,Russia,2017,2017,NBR,Number,0,Units,,,129.4338,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",RUS,Russia,2018,2018,NBR,Number,0,Units,,,140.9493,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",RUS,Russia,2019,2019,NBR,Number,0,Units,,,135.6306,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",RUS,Russia,2020,2020,NBR,Number,0,Units,,,138.8576,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",SGP,Singapore,2015,2015,NBR,Number,0,Units,,,121.1202,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",SGP,Singapore,2016,2016,NBR,Number,0,Units,,,136.4405,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",SGP,Singapore,2017,2017,NBR,Number,0,Units,,,135.9735,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",SGP,Singapore,2018,2018,NBR,Number,0,Units,,,168.4254,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",SGP,Singapore,2019,2019,NBR,Number,0,Units,,,172.5421,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",SGP,Singapore,2020,2020,NBR,Number,0,Units,,,178.72,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",SVN,Slovenia,2015,2015,NBR,Number,0,Units,,,6.5333,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",SVN,Slovenia,2016,2016,NBR,Number,0,Units,,,9.3667,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",SVN,Slovenia,2017,2017,NBR,Number,0,Units,,,14.1095,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",SVN,Slovenia,2018,2018,NBR,Number,0,Units,,,14.7981,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",SVN,Slovenia,2019,2019,NBR,Number,0,Units,,,14.9273,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",SVN,Slovenia,2020,2020,NBR,Number,0,Units,,,15.7129,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",ZAF,South Africa,2015,2015,NBR,Number,0,Units,,,24.75,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",ZAF,South Africa,2016,2016,NBR,Number,0,Units,,,28.3028,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",ZAF,South Africa,2017,2017,NBR,Number,0,Units,,,21.3613,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",ZAF,South Africa,2018,2018,NBR,Number,0,Units,,,22.0616,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",ZAF,South Africa,2019,2019,NBR,Number,0,Units,,,20.1662,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",ZAF,South Africa,2020,2020,NBR,Number,0,Units,,,20.405,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",TWN,Chinese Taipei,2015,2015,NBR,Number,0,Units,,,445.3296,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",TWN,Chinese Taipei,2016,2016,NBR,Number,0,Units,,,521.8597,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",TWN,Chinese Taipei,2017,2017,NBR,Number,0,Units,,,711.2581,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",TWN,Chinese Taipei,2018,2018,NBR,Number,0,Units,,,728.9247,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",TWN,Chinese Taipei,2019,2019,NBR,Number,0,Units,,,703.3738,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",TWN,Chinese Taipei,2020,2020,NBR,Number,0,Units,,,696.4401,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",OECD,OECD - Total,2015,2015,NBR,Number,0,Units,,,50264.0838,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",OECD,OECD - Total,2016,2016,NBR,Number,0,Units,,,50477.5721,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",OECD,OECD - Total,2017,2017,NBR,Number,0,Units,,,50764.076,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",OECD,OECD - Total,2018,2018,NBR,Number,0,Units,,,51132.2341,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",OECD,OECD - Total,2019,2019,NBR,Number,0,Units,,,49897.1972,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",OECD,OECD - Total,2020,2020,NBR,Number,0,Units,,,49914.7366,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",LVA,Latvia,2015,2015,NBR,Number,0,Units,,,3.9333,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",LVA,Latvia,2016,2016,NBR,Number,0,Units,,,5.2,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",LVA,Latvia,2017,2017,NBR,Number,0,Units,,,3.5,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",LVA,Latvia,2018,2018,NBR,Number,0,Units,,,8.0,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",LVA,Latvia,2019,2019,NBR,Number,0,Units,,,8.3186,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",LVA,Latvia,2020,2020,NBR,Number,0,Units,,,9.5912,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",LTU,Lithuania,2015,2015,NBR,Number,0,Units,,,3.5714,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",LTU,Lithuania,2016,2016,NBR,Number,0,Units,,,6.6667,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",LTU,Lithuania,2017,2017,NBR,Number,0,Units,,,4.75,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",LTU,Lithuania,2018,2018,NBR,Number,0,Units,,,9.8611,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",LTU,Lithuania,2019,2019,NBR,Number,0,Units,,,10.7372,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",LTU,Lithuania,2020,2020,NBR,Number,0,Units,,,12.1225,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",COL,Colombia,2015,2015,NBR,Number,0,Units,,,5.2,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",COL,Colombia,2016,2016,NBR,Number,0,Units,,,3.1722,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",COL,Colombia,2017,2017,NBR,Number,0,Units,,,8.6321,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",COL,Colombia,2018,2018,NBR,Number,0,Units,,,9.7734,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",COL,Colombia,2019,2019,NBR,Number,0,Units,,,9.9378,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",COL,Colombia,2020,2020,NBR,Number,0,Units,,,9.599,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",EU27_2020,European Union – 27 countries (from 01/02/2020),2015,2015,NBR,Number,0,Units,,,11873.6007,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",EU27_2020,European Union – 27 countries (from 01/02/2020),2016,2016,NBR,Number,0,Units,,,11917.4101,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",EU27_2020,European Union – 27 countries (from 01/02/2020),2017,2017,NBR,Number,0,Units,,,11514.6463,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",EU27_2020,European Union – 27 countries (from 01/02/2020),2018,2018,NBR,Number,0,Units,,,11493.7841,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",EU27_2020,European Union – 27 countries (from 01/02/2020),2019,2019,NBR,Number,0,Units,,,11047.8936,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",EU27_2020,European Union – 27 countries (from 01/02/2020),2020,2020,NBR,Number,0,Units,,,11209.5206,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",CRI,Costa Rica,2015,2015,NBR,Number,0,Units,,,0.2,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",CRI,Costa Rica,2016,2016,NBR,Number,0,Units,,,0.25,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",CRI,Costa Rica,2017,2017,NBR,Number,0,Units,,,0.1111,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",CRI,Costa Rica,2018,2018,NBR,Number,0,Units,,,1.6409,,
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",CRI,Costa Rica,2019,2019,NBR,Number,0,Units,,,1.8974,e,Estimated value
+P_TRIAD,"Number of ""triadic"" patent families (priority year)",CRI,Costa Rica,2020,2020,NBR,Number,0,Units,,,1.9162,e,Estimated value

@@ -1,0 +1,290 @@
+MSTI_VAR,MSTI Variables,COU,Country,YEAR,Year,Unit Code,Unit,PowerCode Code,PowerCode,Reference Period Code,Reference Period,Value,Flag Codes,Flags
+G_FGXGDP,Government-financed GERD as a percentage of GDP,AUT,Austria,2015,2015,PC,Percentage,0,Units,,,0.99390700702471,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,AUT,Austria,2016,2016,PC,Percentage,0,Units,,,0.94555224513325,d; e,Definition differs; Estimated value
+G_FGXGDP,Government-financed GERD as a percentage of GDP,AUT,Austria,2017,2017,PC,Percentage,0,Units,,,0.84409714516553,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,AUT,Austria,2018,2018,PC,Percentage,0,Units,,,0.93531075500042,d; e,Definition differs; Estimated value
+G_FGXGDP,Government-financed GERD as a percentage of GDP,AUT,Austria,2019,2019,PC,Percentage,0,Units,,,0.84485053914255,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,AUT,Austria,2020,2020,PC,Percentage,0,Units,,,1.06717760182539,d; e,Definition differs; Estimated value
+G_FGXGDP,Government-financed GERD as a percentage of GDP,AUT,Austria,2021,2021,PC,Percentage,0,Units,,,0.92688497539583,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,BEL,Belgium,2015,2015,PC,Percentage,0,Units,,,0.54647284602356,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,BEL,Belgium,2017,2017,PC,Percentage,0,Units,,,0.53214008939668,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,BEL,Belgium,2019,2019,PC,Percentage,0,Units,,,0.56243606062638,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,BEL,Belgium,2021,2021,PC,Percentage,0,Units,,,0.59212120645282,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,CAN,Canada,2015,2015,PC,Percentage,0,Units,,,0.52184415413469,e,Estimated value
+G_FGXGDP,Government-financed GERD as a percentage of GDP,CAN,Canada,2016,2016,PC,Percentage,0,Units,,,0.53427859800003,e,Estimated value
+G_FGXGDP,Government-financed GERD as a percentage of GDP,CAN,Canada,2017,2017,PC,Percentage,0,Units,,,0.54740612741697,e,Estimated value
+G_FGXGDP,Government-financed GERD as a percentage of GDP,CAN,Canada,2018,2018,PC,Percentage,0,Units,,,0.54426515481901,e,Estimated value
+G_FGXGDP,Government-financed GERD as a percentage of GDP,CAN,Canada,2019,2019,PC,Percentage,0,Units,,,0.55325919371982,e,Estimated value
+G_FGXGDP,Government-financed GERD as a percentage of GDP,CAN,Canada,2020,2020,PC,Percentage,0,Units,,,0.59986034183215,e,Estimated value
+G_FGXGDP,Government-financed GERD as a percentage of GDP,CAN,Canada,2021,2021,PC,Percentage,0,Units,,,0.52402397496352,e; p,Estimated value; Provisional value
+G_FGXGDP,Government-financed GERD as a percentage of GDP,CAN,Canada,2022,2022,PC,Percentage,0,Units,,,0.47986717673293,e; p,Estimated value; Provisional value
+G_FGXGDP,Government-financed GERD as a percentage of GDP,CZE,Czechia,2015,2015,PC,Percentage,0,Units,,,0.61751714130175,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,CZE,Czechia,2016,2016,PC,Percentage,0,Units,,,0.59486628931375,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,CZE,Czechia,2017,2017,PC,Percentage,0,Units,,,0.61111274958408,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,CZE,Czechia,2018,2018,PC,Percentage,0,Units,,,0.64753396426122,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,CZE,Czechia,2019,2019,PC,Percentage,0,Units,,,0.64889771178372,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,CZE,Czechia,2020,2020,PC,Percentage,0,Units,,,0.67556591362153,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,CZE,Czechia,2021,2021,PC,Percentage,0,Units,,,0.64508279447223,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,DNK,Denmark,2015,2015,PC,Percentage,0,Units,,,0.9225301450831,d,Definition differs
+G_FGXGDP,Government-financed GERD as a percentage of GDP,DNK,Denmark,2017,2017,PC,Percentage,0,Units,,,0.83079490658216,d,Definition differs
+G_FGXGDP,Government-financed GERD as a percentage of GDP,DNK,Denmark,2019,2019,PC,Percentage,0,Units,,,0.83004651192155,d,Definition differs
+G_FGXGDP,Government-financed GERD as a percentage of GDP,FIN,Finland,2015,2015,PC,Percentage,0,Units,,,0.82957636539963,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,FIN,Finland,2016,2016,PC,Percentage,0,Units,,,0.786555595399,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,FIN,Finland,2017,2017,PC,Percentage,0,Units,,,0.79133543378067,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,FIN,Finland,2018,2018,PC,Percentage,0,Units,,,0.77961295628411,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,FIN,Finland,2019,2019,PC,Percentage,0,Units,,,0.7780019845075,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,FIN,Finland,2020,2020,PC,Percentage,0,Units,,,0.80604777388484,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,FIN,Finland,2021,2021,PC,Percentage,0,Units,,,0.76356249003667,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,FRA,France,2015,2015,PC,Percentage,0,Units,,,0.78916564169372,s,Unrevised breakdown not adding to the revised total
+G_FGXGDP,Government-financed GERD as a percentage of GDP,FRA,France,2016,2016,PC,Percentage,0,Units,,,0.72097954057263,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,FRA,France,2017,2017,PC,Percentage,0,Units,,,0.7142090384905,s,Unrevised breakdown not adding to the revised total
+G_FGXGDP,Government-financed GERD as a percentage of GDP,FRA,France,2018,2018,PC,Percentage,0,Units,,,0.69268927341614,s,Unrevised breakdown not adding to the revised total
+G_FGXGDP,Government-financed GERD as a percentage of GDP,FRA,France,2019,2019,PC,Percentage,0,Units,,,0.68716325454795,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,FRA,France,2020,2020,PC,Percentage,0,Units,,,0.72481356685591,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,FRA,France,2021,2021,PC,Percentage,0,Units,,,0.72028333220039,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,DEU,Germany,2015,2015,PC,Percentage,0,Units,,,0.81843938562809,d,Definition differs
+G_FGXGDP,Government-financed GERD as a percentage of GDP,DEU,Germany,2016,2016,PC,Percentage,0,Units,,,0.83867111785985,d,Definition differs
+G_FGXGDP,Government-financed GERD as a percentage of GDP,DEU,Germany,2017,2017,PC,Percentage,0,Units,,,0.84466135726441,d,Definition differs
+G_FGXGDP,Government-financed GERD as a percentage of GDP,DEU,Germany,2018,2018,PC,Percentage,0,Units,,,0.86611023785824,d,Definition differs
+G_FGXGDP,Government-financed GERD as a percentage of GDP,DEU,Germany,2019,2019,PC,Percentage,0,Units,,,0.88058524341486,d,Definition differs
+G_FGXGDP,Government-financed GERD as a percentage of GDP,DEU,Germany,2020,2020,PC,Percentage,0,Units,,,0.93011019950848,d; e,Definition differs; Estimated value
+G_FGXGDP,Government-financed GERD as a percentage of GDP,DEU,Germany,2021,2021,PC,Percentage,0,Units,,,0.93752628509033,d,Definition differs
+G_FGXGDP,Government-financed GERD as a percentage of GDP,GRC,Greece,2015,2015,PC,Percentage,0,Units,,,0.51255075054329,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,GRC,Greece,2016,2016,PC,Percentage,0,Units,,,0.42795695065454,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,GRC,Greece,2017,2017,PC,Percentage,0,Units,,,0.43352478516625,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,GRC,Greece,2018,2018,PC,Percentage,0,Units,,,0.49303375408806,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,GRC,Greece,2019,2019,PC,Percentage,0,Units,,,0.52456698314976,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,GRC,Greece,2020,2020,PC,Percentage,0,Units,,,0.64341712293402,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,GRC,Greece,2021,2021,PC,Percentage,0,Units,,,0.64745719029185,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,HUN,Hungary,2015,2015,PC,Percentage,0,Units,,,0.46381985432207,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,HUN,Hungary,2016,2016,PC,Percentage,0,Units,,,0.3096623146688,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,HUN,Hungary,2017,2017,PC,Percentage,0,Units,,,0.42005301267682,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,HUN,Hungary,2018,2018,PC,Percentage,0,Units,,,0.48770510601057,b,Time series break
+G_FGXGDP,Government-financed GERD as a percentage of GDP,HUN,Hungary,2019,2019,PC,Percentage,0,Units,,,0.49018518134352,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,HUN,Hungary,2020,2020,PC,Percentage,0,Units,,,0.51738982300226,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,HUN,Hungary,2021,2021,PC,Percentage,0,Units,,,0.57609501597408,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,ISL,Iceland,2015,2015,PC,Percentage,0,Units,,,0.62840140675563,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,ISL,Iceland,2016,2016,PC,Percentage,0,Units,,,0.67492953857831,e,Estimated value
+G_FGXGDP,Government-financed GERD as a percentage of GDP,ISL,Iceland,2017,2017,PC,Percentage,0,Units,,,0.68412481910229,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,ISL,Iceland,2018,2018,PC,Percentage,0,Units,,,0.66280721266816,e,Estimated value
+G_FGXGDP,Government-financed GERD as a percentage of GDP,ISL,Iceland,2019,2019,PC,Percentage,0,Units,,,0.62633400385839,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,ISL,Iceland,2020,2020,PC,Percentage,0,Units,,,0.69041764903832,e,Estimated value
+G_FGXGDP,Government-financed GERD as a percentage of GDP,ISL,Iceland,2021,2021,PC,Percentage,0,Units,,,0.70097657667973,b,Time series break
+G_FGXGDP,Government-financed GERD as a percentage of GDP,IRL,Ireland,2015,2015,PC,Percentage,0,Units,,,0.30799960379778,e,Estimated value
+G_FGXGDP,Government-financed GERD as a percentage of GDP,IRL,Ireland,2016,2016,PC,Percentage,0,Units,,,0.30386522758574,e,Estimated value
+G_FGXGDP,Government-financed GERD as a percentage of GDP,IRL,Ireland,2017,2017,PC,Percentage,0,Units,,,0.29732590561411,e,Estimated value
+G_FGXGDP,Government-financed GERD as a percentage of GDP,IRL,Ireland,2018,2018,PC,Percentage,0,Units,,,0.28765485865387,e; p,Estimated value; Provisional value
+G_FGXGDP,Government-financed GERD as a percentage of GDP,IRL,Ireland,2019,2019,PC,Percentage,0,Units,,,0.27729802692365,e; p,Estimated value; Provisional value
+G_FGXGDP,Government-financed GERD as a percentage of GDP,IRL,Ireland,2021,2021,PC,Percentage,0,Units,,,0.18618562836748,b,Time series break
+G_FGXGDP,Government-financed GERD as a percentage of GDP,ITA,Italy,2015,2015,PC,Percentage,0,Units,,,0.50835621362185,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,ITA,Italy,2016,2016,PC,Percentage,0,Units,,,0.48141900856877,b,Time series break
+G_FGXGDP,Government-financed GERD as a percentage of GDP,ITA,Italy,2017,2017,PC,Percentage,0,Units,,,0.44223366583116,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,ITA,Italy,2018,2018,PC,Percentage,0,Units,,,0.4665984566255,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,ITA,Italy,2019,2019,PC,Percentage,0,Units,,,0.4724465581331,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,ITA,Italy,2020,2020,PC,Percentage,0,Units,,,0.50769277357845,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,ITA,Italy,2021,2021,PC,Percentage,0,Units,,,0.51102196741086,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,JPN,Japan,2015,2015,PC,Percentage,0,Units,,,0.49948926709419,e,Estimated value
+G_FGXGDP,Government-financed GERD as a percentage of GDP,JPN,Japan,2016,2016,PC,Percentage,0,Units,,,0.4665122412442,e,Estimated value
+G_FGXGDP,Government-financed GERD as a percentage of GDP,JPN,Japan,2017,2017,PC,Percentage,0,Units,,,0.47494958242402,e,Estimated value
+G_FGXGDP,Government-financed GERD as a percentage of GDP,JPN,Japan,2018,2018,PC,Percentage,0,Units,,,0.46877812464687,b; e,Time series break; Estimated value
+G_FGXGDP,Government-financed GERD as a percentage of GDP,JPN,Japan,2019,2019,PC,Percentage,0,Units,,,0.47215530798113,e,Estimated value
+G_FGXGDP,Government-financed GERD as a percentage of GDP,JPN,Japan,2020,2020,PC,Percentage,0,Units,,,0.49655516114049,e,Estimated value
+G_FGXGDP,Government-financed GERD as a percentage of GDP,JPN,Japan,2021,2021,PC,Percentage,0,Units,,,0.50940053110847,e,Estimated value
+G_FGXGDP,Government-financed GERD as a percentage of GDP,KOR,Korea,2015,2015,PC,Percentage,0,Units,,,0.9413688303232,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,KOR,Korea,2016,2016,PC,Percentage,0,Units,,,0.90440739907143,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,KOR,Korea,2017,2017,PC,Percentage,0,Units,,,0.92636370281433,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,KOR,Korea,2018,2018,PC,Percentage,0,Units,,,0.92858366385197,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,KOR,Korea,2019,2019,PC,Percentage,0,Units,,,0.95704097643557,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,KOR,Korea,2020,2020,PC,Percentage,0,Units,,,1.07435682525629,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,KOR,Korea,2021,2021,PC,Percentage,0,Units,,,1.12417779247661,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,LUX,Luxembourg,2015,2015,PC,Percentage,0,Units,,,0.58327772678459,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,LUX,Luxembourg,2017,2017,PC,Percentage,0,Units,,,0.53361954411837,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,LUX,Luxembourg,2019,2019,PC,Percentage,0,Units,,,0.51047247754931,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,LUX,Luxembourg,2021,2021,PC,Percentage,0,Units,,,0.48969093697564,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,MEX,Mexico,2015,2015,PC,Percentage,0,Units,,,0.34221712173517,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,MEX,Mexico,2016,2016,PC,Percentage,0,Units,,,0.30091420398257,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,MEX,Mexico,2017,2017,PC,Percentage,0,Units,,,0.2521073326836,e,Estimated value
+G_FGXGDP,Government-financed GERD as a percentage of GDP,NLD,Netherlands,2015,2015,PC,Percentage,0,Units,,,0.6770935989148,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,NLD,Netherlands,2016,2016,PC,Percentage,0,Units,,,0.64997310602157,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,NLD,Netherlands,2017,2017,PC,Percentage,0,Units,,,0.64052369043523,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,NLD,Netherlands,2018,2018,PC,Percentage,0,Units,,,0.63256876407485,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,NLD,Netherlands,2019,2019,PC,Percentage,0,Units,,,0.64214598028424,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,NLD,Netherlands,2020,2020,PC,Percentage,0,Units,,,0.7034261107554,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,NLD,Netherlands,2021,2021,PC,Percentage,0,Units,,,0.69594894019782,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,NZL,New Zealand,2015,2015,PC,Percentage,0,Units,,,0.45547113652385,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,NZL,New Zealand,2017,2017,PC,Percentage,0,Units,,,0.48914894275719,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,NZL,New Zealand,2019,2019,PC,Percentage,0,Units,,,0.4380591751123,p,Provisional value
+G_FGXGDP,Government-financed GERD as a percentage of GDP,NZL,New Zealand,2021,2021,PC,Percentage,0,Units,,,0.46422895257993,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,NOR,Norway,2015,2015,PC,Percentage,0,Units,,,0.86412839121547,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,NOR,Norway,2016,2016,PC,Percentage,0,Units,,,0.92808328532895,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,NOR,Norway,2017,2017,PC,Percentage,0,Units,,,0.97156182038294,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,NOR,Norway,2018,2018,PC,Percentage,0,Units,,,0.9773328214851,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,NOR,Norway,2019,2019,PC,Percentage,0,Units,,,1.00322580017387,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,NOR,Norway,2020,2020,PC,Percentage,0,Units,,,1.03526285000325,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,NOR,Norway,2021,2021,PC,Percentage,0,Units,,,0.90220181782782,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,POL,Poland,2015,2015,PC,Percentage,0,Units,,,0.42000677241946,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,POL,Poland,2016,2016,PC,Percentage,0,Units,,,0.37625087348674,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,POL,Poland,2017,2017,PC,Percentage,0,Units,,,0.39730299768912,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,POL,Poland,2018,2018,PC,Percentage,0,Units,,,0.42716429673841,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,POL,Poland,2019,2019,PC,Percentage,0,Units,,,0.51367109869731,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,POL,Poland,2020,2020,PC,Percentage,0,Units,,,0.54008866941128,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,POL,Poland,2021,2021,PC,Percentage,0,Units,,,0.5354140193714,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,PRT,Portugal,2015,2015,PC,Percentage,0,Units,,,0.55075877888274,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,PRT,Portugal,2016,2016,PC,Percentage,0,Units,,,0.54611455421551,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,PRT,Portugal,2017,2017,PC,Percentage,0,Units,,,0.54143409339689,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,PRT,Portugal,2018,2018,PC,Percentage,0,Units,,,0.54771438700589,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,PRT,Portugal,2019,2019,PC,Percentage,0,Units,,,0.56154872344497,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,PRT,Portugal,2020,2020,PC,Percentage,0,Units,,,0.60190818709975,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,PRT,Portugal,2021,2021,PC,Percentage,0,Units,,,0.59807505421566,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,SVK,Slovak Republic,2015,2015,PC,Percentage,0,Units,,,0.36958393355429,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,SVK,Slovak Republic,2016,2016,PC,Percentage,0,Units,,,0.32322692825072,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,SVK,Slovak Republic,2017,2017,PC,Percentage,0,Units,,,0.3140538080621,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,SVK,Slovak Republic,2018,2018,PC,Percentage,0,Units,,,0.31758773295615,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,SVK,Slovak Republic,2019,2019,PC,Percentage,0,Units,,,0.33269462389869,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,SVK,Slovak Republic,2020,2020,PC,Percentage,0,Units,,,0.35562623278542,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,SVK,Slovak Republic,2021,2021,PC,Percentage,0,Units,,,0.34710198322221,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,ESP,Spain,2015,2015,PC,Percentage,0,Units,,,0.50005008848967,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,ESP,Spain,2016,2016,PC,Percentage,0,Units,,,0.47540032483265,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,ESP,Spain,2017,2017,PC,Percentage,0,Units,,,0.47064053774134,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,ESP,Spain,2018,2018,PC,Percentage,0,Units,,,0.46691514537832,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,ESP,Spain,2019,2019,PC,Percentage,0,Units,,,0.47370039493767,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,ESP,Spain,2020,2020,PC,Percentage,0,Units,,,0.54320749130805,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,ESP,Spain,2021,2021,PC,Percentage,0,Units,,,0.53537945074832,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,SWE,Sweden,2015,2015,PC,Percentage,0,Units,,,,c,Confidential statistical information
+G_FGXGDP,Government-financed GERD as a percentage of GDP,SWE,Sweden,2017,2017,PC,Percentage,0,Units,,,0.84136668357443,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,SWE,Sweden,2019,2019,PC,Percentage,0,Units,,,0.8212104715227,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,SWE,Sweden,2021,2021,PC,Percentage,0,Units,,,0.79116727080986,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,CHE,Switzerland,2015,2015,PC,Percentage,0,Units,,,0.83291509668647,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,CHE,Switzerland,2017,2017,PC,Percentage,0,Units,,,0.85514884061939,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,CHE,Switzerland,2019,2019,PC,Percentage,0,Units,,,0.87173428424812,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,CHE,Switzerland,2021,2021,PC,Percentage,0,Units,,,0.90069036302527,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,TUR,Türkiye,2015,2015,PC,Percentage,0,Units,,,0.33731339251028,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,TUR,Türkiye,2016,2016,PC,Percentage,0,Units,,,0.38189311637617,b,Time series break
+G_FGXGDP,Government-financed GERD as a percentage of GDP,TUR,Türkiye,2017,2017,PC,Percentage,0,Units,,,0.38619896323484,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,TUR,Türkiye,2018,2018,PC,Percentage,0,Units,,,0.40984911220755,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,TUR,Türkiye,2019,2019,PC,Percentage,0,Units,,,0.40730685511134,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,TUR,Türkiye,2020,2020,PC,Percentage,0,Units,,,0.41149057933888,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,TUR,Türkiye,2021,2021,PC,Percentage,0,Units,,,0.38532026874426,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,GBR,United Kingdom,2018,2018,PC,Percentage,0,Units,,,0.49231068735196,b; e; p,Time series break; Estimated value; Provisional value
+G_FGXGDP,Government-financed GERD as a percentage of GDP,GBR,United Kingdom,2019,2019,PC,Percentage,0,Units,,,0.47908234108369,p,Provisional value
+G_FGXGDP,Government-financed GERD as a percentage of GDP,GBR,United Kingdom,2020,2020,PC,Percentage,0,Units,,,0.57529126457508,p,Provisional value
+G_FGXGDP,Government-financed GERD as a percentage of GDP,GBR,United Kingdom,2021,2021,PC,Percentage,0,Units,,,0.56560126083253,p,Provisional value
+G_FGXGDP,Government-financed GERD as a percentage of GDP,USA,United States,2015,2015,PC,Percentage,0,Units,,,0.68778887074898,d,Definition differs
+G_FGXGDP,Government-financed GERD as a percentage of GDP,USA,United States,2016,2016,PC,Percentage,0,Units,,,0.66395986200881,d,Definition differs
+G_FGXGDP,Government-financed GERD as a percentage of GDP,USA,United States,2017,2017,PC,Percentage,0,Units,,,0.66083982630685,d,Definition differs
+G_FGXGDP,Government-financed GERD as a percentage of GDP,USA,United States,2018,2018,PC,Percentage,0,Units,,,0.67144406838962,d,Definition differs
+G_FGXGDP,Government-financed GERD as a percentage of GDP,USA,United States,2019,2019,PC,Percentage,0,Units,,,0.66856629931206,d,Definition differs
+G_FGXGDP,Government-financed GERD as a percentage of GDP,USA,United States,2020,2020,PC,Percentage,0,Units,,,0.73682577134779,d,Definition differs
+G_FGXGDP,Government-financed GERD as a percentage of GDP,USA,United States,2021,2021,PC,Percentage,0,Units,,,0.68743917295419,d; p,Definition differs; Provisional value
+G_FGXGDP,Government-financed GERD as a percentage of GDP,ARG,Argentina,2015,2015,PC,Percentage,0,Units,,,0.47247445435401,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,ARG,Argentina,2016,2016,PC,Percentage,0,Units,,,0.38746030221053,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,ARG,Argentina,2017,2017,PC,Percentage,0,Units,,,0.39318153470781,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,ARG,Argentina,2018,2018,PC,Percentage,0,Units,,,0.32193387246433,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,ARG,Argentina,2019,2019,PC,Percentage,0,Units,,,0.29026473138556,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,ARG,Argentina,2020,2020,PC,Percentage,0,Units,,,0.31251485743894,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,ARG,Argentina,2021,2021,PC,Percentage,0,Units,,,0.30307354904375,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,CHL,Chile,2015,2015,PC,Percentage,0,Units,,,0.16312663382628,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,CHL,Chile,2016,2016,PC,Percentage,0,Units,,,0.16875762549335,b,Time series break
+G_FGXGDP,Government-financed GERD as a percentage of GDP,CHL,Chile,2017,2017,PC,Percentage,0,Units,,,0.16789080161936,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,CHL,Chile,2018,2018,PC,Percentage,0,Units,,,0.17597713862826,e,Estimated value
+G_FGXGDP,Government-financed GERD as a percentage of GDP,CHL,Chile,2019,2019,PC,Percentage,0,Units,,,0.15491225128705,e,Estimated value
+G_FGXGDP,Government-financed GERD as a percentage of GDP,CHL,Chile,2020,2020,PC,Percentage,0,Units,,,0.13159888078569,e,Estimated value
+G_FGXGDP,Government-financed GERD as a percentage of GDP,CHN,China (People's Republic of),2015,2015,PC,Percentage,0,Units,,,0.43741888243473,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,CHN,China (People's Republic of),2016,2016,PC,Percentage,0,Units,,,0.42079692109447,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,CHN,China (People's Republic of),2017,2017,PC,Percentage,0,Units,,,0.41914617396363,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,CHN,China (People's Republic of),2018,2018,PC,Percentage,0,Units,,,0.43279917753123,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,CHN,China (People's Republic of),2019,2019,PC,Percentage,0,Units,,,0.45993312317945,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,CHN,China (People's Republic of),2020,2020,PC,Percentage,0,Units,,,0.47609635475504,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,CHN,China (People's Republic of),2021,2021,PC,Percentage,0,Units,,,0.46114607952929,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,EST,Estonia,2015,2015,PC,Percentage,0,Units,,,0.68046889992724,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,EST,Estonia,2016,2016,PC,Percentage,0,Units,,,0.46735525820509,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,EST,Estonia,2017,2017,PC,Percentage,0,Units,,,0.5132247167681,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,EST,Estonia,2018,2018,PC,Percentage,0,Units,,,0.60330456809031,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,EST,Estonia,2019,2019,PC,Percentage,0,Units,,,0.60735340192298,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,EST,Estonia,2020,2020,PC,Percentage,0,Units,,,0.64762466169421,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,EST,Estonia,2021,2021,PC,Percentage,0,Units,,,0.6479815339032,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,ISR,Israel,2015,2015,PC,Percentage,0,Units,,,0.5413286034066,d,Definition differs
+G_FGXGDP,Government-financed GERD as a percentage of GDP,ISR,Israel,2016,2016,PC,Percentage,0,Units,,,0.4977871852901,d,Definition differs
+G_FGXGDP,Government-financed GERD as a percentage of GDP,ISR,Israel,2017,2017,PC,Percentage,0,Units,,,0.50861996231169,d,Definition differs
+G_FGXGDP,Government-financed GERD as a percentage of GDP,ISR,Israel,2018,2018,PC,Percentage,0,Units,,,0.50597019115464,d,Definition differs
+G_FGXGDP,Government-financed GERD as a percentage of GDP,ISR,Israel,2019,2019,PC,Percentage,0,Units,,,0.49668125269653,d,Definition differs
+G_FGXGDP,Government-financed GERD as a percentage of GDP,ISR,Israel,2020,2020,PC,Percentage,0,Units,,,0.50987168424684,d,Definition differs
+G_FGXGDP,Government-financed GERD as a percentage of GDP,ROU,Romania,2015,2015,PC,Percentage,0,Units,,,0.20344004212514,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,ROU,Romania,2016,2016,PC,Percentage,0,Units,,,0.19343309094177,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,ROU,Romania,2017,2017,PC,Percentage,0,Units,,,0.18214104253342,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,ROU,Romania,2018,2018,PC,Percentage,0,Units,,,0.16570318602012,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,ROU,Romania,2019,2019,PC,Percentage,0,Units,,,0.16376068350037,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,ROU,Romania,2020,2020,PC,Percentage,0,Units,,,0.15294513585503,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,ROU,Romania,2021,2021,PC,Percentage,0,Units,,,0.14969156690268,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,RUS,Russia,2015,2015,PC,Percentage,0,Units,,,0.76529077254917,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,RUS,Russia,2016,2016,PC,Percentage,0,Units,,,0.75149548010511,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,RUS,Russia,2017,2017,PC,Percentage,0,Units,,,0.73423469160427,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,RUS,Russia,2018,2018,PC,Percentage,0,Units,,,0.66364302194306,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,RUS,Russia,2019,2019,PC,Percentage,0,Units,,,0.6886217685968,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,RUS,Russia,2020,2020,PC,Percentage,0,Units,,,0.74449734944345,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,SGP,Singapore,2015,2015,PC,Percentage,0,Units,,,0.83312059372182,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,SGP,Singapore,2016,2016,PC,Percentage,0,Units,,,0.81540569545489,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,SGP,Singapore,2017,2017,PC,Percentage,0,Units,,,0.71711911305926,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,SGP,Singapore,2018,2018,PC,Percentage,0,Units,,,0.68791275662614,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,SGP,Singapore,2019,2019,PC,Percentage,0,Units,,,0.69133320463063,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,SGP,Singapore,2020,2020,PC,Percentage,0,Units,,,0.76007059537293,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,SVN,Slovenia,2015,2015,PC,Percentage,0,Units,,,0.4366344135272,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,SVN,Slovenia,2016,2016,PC,Percentage,0,Units,,,0.40535845835516,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,SVN,Slovenia,2017,2017,PC,Percentage,0,Units,,,0.42625668137651,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,SVN,Slovenia,2018,2018,PC,Percentage,0,Units,,,0.46130549335816,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,SVN,Slovenia,2019,2019,PC,Percentage,0,Units,,,0.50409980986594,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,SVN,Slovenia,2020,2020,PC,Percentage,0,Units,,,0.53686969062488,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,SVN,Slovenia,2021,2021,PC,Percentage,0,Units,,,0.51723617901522,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,ZAF,South Africa,2015,2015,PC,Percentage,0,Units,,,0.32632141726139,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,ZAF,South Africa,2016,2016,PC,Percentage,0,Units,,,0.34514990820794,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,ZAF,South Africa,2017,2017,PC,Percentage,0,Units,,,0.35607530549766,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,ZAF,South Africa,2018,2018,PC,Percentage,0,Units,,,0.32583540684948,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,ZAF,South Africa,2019,2019,PC,Percentage,0,Units,,,0.34517724743609,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,ZAF,South Africa,2020,2020,PC,Percentage,0,Units,,,0.33893017692476,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,TWN,Chinese Taipei,2015,2015,PC,Percentage,0,Units,,,0.63731067093505,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,TWN,Chinese Taipei,2016,2016,PC,Percentage,0,Units,,,0.65918643170739,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,TWN,Chinese Taipei,2017,2017,PC,Percentage,0,Units,,,0.63153465197546,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,TWN,Chinese Taipei,2018,2018,PC,Percentage,0,Units,,,0.62992577130498,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,TWN,Chinese Taipei,2019,2019,PC,Percentage,0,Units,,,0.63353432142473,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,TWN,Chinese Taipei,2020,2020,PC,Percentage,0,Units,,,0.60561109616589,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,TWN,Chinese Taipei,2021,2021,PC,Percentage,0,Units,,,0.5717395767116,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,OECD,OECD - Total,2015,2015,PC,Percentage,0,Units,,,0.62050716924131,e,Estimated value
+G_FGXGDP,Government-financed GERD as a percentage of GDP,OECD,OECD - Total,2016,2016,PC,Percentage,0,Units,,,0.59884645904318,e,Estimated value
+G_FGXGDP,Government-financed GERD as a percentage of GDP,OECD,OECD - Total,2017,2017,PC,Percentage,0,Units,,,0.59536340316944,e,Estimated value
+G_FGXGDP,Government-financed GERD as a percentage of GDP,OECD,OECD - Total,2018,2018,PC,Percentage,0,Units,,,0.60487633229416,e,Estimated value
+G_FGXGDP,Government-financed GERD as a percentage of GDP,OECD,OECD - Total,2019,2019,PC,Percentage,0,Units,,,0.60786918258263,e,Estimated value
+G_FGXGDP,Government-financed GERD as a percentage of GDP,OECD,OECD - Total,2020,2020,PC,Percentage,0,Units,,,0.66086753953434,e,Estimated value
+G_FGXGDP,Government-financed GERD as a percentage of GDP,OECD,OECD - Total,2021,2021,PC,Percentage,0,Units,,,0.63285719586765,e,Estimated value
+G_FGXGDP,Government-financed GERD as a percentage of GDP,LVA,Latvia,2015,2015,PC,Percentage,0,Units,,,0.20266866611379,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,LVA,Latvia,2016,2016,PC,Percentage,0,Units,,,0.20771482008586,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,LVA,Latvia,2017,2017,PC,Percentage,0,Units,,,0.22272100362457,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,LVA,Latvia,2018,2018,PC,Percentage,0,Units,,,0.21918423948008,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,LVA,Latvia,2019,2019,PC,Percentage,0,Units,,,0.22523810944062,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,LVA,Latvia,2020,2020,PC,Percentage,0,Units,,,0.26183351546484,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,LVA,Latvia,2021,2021,PC,Percentage,0,Units,,,0.25113141081112,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,LTU,Lithuania,2015,2015,PC,Percentage,0,Units,,,0.36879481807216,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,LTU,Lithuania,2016,2016,PC,Percentage,0,Units,,,0.33010145110602,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,LTU,Lithuania,2017,2017,PC,Percentage,0,Units,,,0.32587527518924,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,LTU,Lithuania,2018,2018,PC,Percentage,0,Units,,,0.30352919735423,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,LTU,Lithuania,2019,2019,PC,Percentage,0,Units,,,0.32074750409565,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,LTU,Lithuania,2020,2020,PC,Percentage,0,Units,,,0.32970966397944,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,LTU,Lithuania,2021,2021,PC,Percentage,0,Units,,,0.33057021734606,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,COL,Colombia,2015,2015,PC,Percentage,0,Units,,,0.11722840963227,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,COL,Colombia,2016,2016,PC,Percentage,0,Units,,,0.09480912688361,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,COL,Colombia,2017,2017,PC,Percentage,0,Units,,,0.09627193787747,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,COL,Colombia,2018,2018,PC,Percentage,0,Units,,,0.08374646363238,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,COL,Colombia,2019,2019,PC,Percentage,0,Units,,,0.07666056135233,e,Estimated value
+G_FGXGDP,Government-financed GERD as a percentage of GDP,COL,Colombia,2020,2020,PC,Percentage,0,Units,,,0.07227535742887,e,Estimated value
+G_FGXGDP,Government-financed GERD as a percentage of GDP,EU27_2020,European Union – 27 countries (from 01/02/2020),2015,2015,PC,Percentage,0,Units,,,0.64317338657642,e,Estimated value
+G_FGXGDP,Government-financed GERD as a percentage of GDP,EU27_2020,European Union – 27 countries (from 01/02/2020),2016,2016,PC,Percentage,0,Units,,,0.62128140573249,e,Estimated value
+G_FGXGDP,Government-financed GERD as a percentage of GDP,EU27_2020,European Union – 27 countries (from 01/02/2020),2017,2017,PC,Percentage,0,Units,,,0.6117323855239,e,Estimated value
+G_FGXGDP,Government-financed GERD as a percentage of GDP,EU27_2020,European Union – 27 countries (from 01/02/2020),2018,2018,PC,Percentage,0,Units,,,0.62147441226786,e,Estimated value
+G_FGXGDP,Government-financed GERD as a percentage of GDP,EU27_2020,European Union – 27 countries (from 01/02/2020),2019,2019,PC,Percentage,0,Units,,,0.62890769872439,e,Estimated value
+G_FGXGDP,Government-financed GERD as a percentage of GDP,EU27_2020,European Union – 27 countries (from 01/02/2020),2020,2020,PC,Percentage,0,Units,,,0.67353900518318,e,Estimated value
+G_FGXGDP,Government-financed GERD as a percentage of GDP,EU27_2020,European Union – 27 countries (from 01/02/2020),2021,2021,PC,Percentage,0,Units,,,0.66304419108774,e,Estimated value
+G_FGXGDP,Government-financed GERD as a percentage of GDP,CRI,Costa Rica,2015,2015,PC,Percentage,0,Units,,,0.23086881152378,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,CRI,Costa Rica,2016,2016,PC,Percentage,0,Units,,,0.20482884127806,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,CRI,Costa Rica,2017,2017,PC,Percentage,0,Units,,,0.20360642775089,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,CRI,Costa Rica,2018,2018,PC,Percentage,0,Units,,,0.17558431410074,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,CRI,Costa Rica,2020,2020,PC,Percentage,0,Units,,,0.14305826365504,,
+G_FGXGDP,Government-financed GERD as a percentage of GDP,CRI,Costa Rica,2021,2021,PC,Percentage,0,Units,,,0.12891994824772,,
