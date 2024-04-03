@@ -1,5 +1,4 @@
-MIE 1624 Introduction to Data Science and Analytics Course Project -
-Group 18
+MIE 1624 Introduction to Data Science and Analytics Course Project - Group 18
 
 **INNOVATING FOR RESILIENCE**
 
